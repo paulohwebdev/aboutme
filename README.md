@@ -1,7 +1,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://raw.githubusercontent.com/paulohwebdev/aboutme/main/assets/aboutme.png?token=GHSAT0AAAAAAB7HOME6VVZ6MWOFRPNWMF3UY7ZG3JA)
+![image](https://user-images.githubusercontent.com/126277769/222261266-bc232615-abe7-4bad-80cb-fee62c3f85af.png)
 
 ## Ferramentas utilizadas:
 
